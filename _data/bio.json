@@ -104,6 +104,18 @@
     }
   ],
   "volunteer": [
+     {
+      "organization": "Golden Key International Honor Society",
+      "website": "http://uhm.goldenkey.org/",
+      "position": "Member",
+      "startDate": "2015-10-10",
+      "endDate": "Present",
+      "summary": "Student with an academic standing that is within top 15% of class",
+      "highlights": [
+        "Fundraisers and drives",
+        "Community Service"
+      ]
+    },
     {
       "organization": "GenCyber Hawai'i",
       "website": "https://gencyber-hi.org/",
@@ -115,20 +127,6 @@
         "Facilitate incentive exchanges",
         "Assist students with computer science related problems",
         "Assess competing teams for their soft skills in computing"
-      ]
-    }
-  ],
-  "activities": [
-    {
-      "organization": "Golden Key International Honor Society",
-      "website": "http://uhm.goldenkey.org/",
-      "position": "Member",
-      "startDate": "2015-10-10",
-      "endDate": "Present",
-      "summary": "Student with an academic standing that is within top 15% of class",
-      "highlights": [
-        "Fundraisers and drives",
-        "Community Service"
       ]
     }
   ],
