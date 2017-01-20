@@ -2,14 +2,14 @@
   "basics": {
     "name": "Shaziney Natividad",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://shaziney.github.io/images/Shaziney.png",
     "email": "shaziney@hawaii.edu",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "website": "https://shaziney.github.io",
+    "summary": "I am studying for a B.A. in Information and Computer Science at the University of Hawaii. I expect to graduate in Fall, 2017.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96706",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,23 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "shaziney",
+        "url": "http://github.com/shaziney"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "",
+        "url": "http://linkedin.com/in/shaziney-natividad-331137133"
       }
     ]
   },
@@ -41,8 +31,6 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
