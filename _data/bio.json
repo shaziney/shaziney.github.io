@@ -103,7 +103,7 @@
       ]
     }
   ],
-  "volunteer": [
+  "activities": [
      {
       "organization": "Golden Key International Honor Society",
       "website": "http://uhm.goldenkey.org/",
@@ -119,7 +119,7 @@
     {
       "organization": "GenCyber Hawai'i",
       "website": "https://gencyber-hi.org/",
-      "position": "Assistant",
+      "position": "Volunteer",
       "startDate": "2016-06-05",
       "endDate": "2016-09-24",
       "summary": "Facilitator and judge for student cyber camps and competition",
