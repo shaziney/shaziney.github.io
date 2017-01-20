@@ -4,13 +4,13 @@
     "label": "Student",
     "picture": "https://shaziney.github.io/images/Shaziney.png",
     "email": "shaziney@hawaii.edu",
-    "phone": "808-333-4444",
+    "phone": "",
     "website": "https://shaziney.github.io",
-    "summary": "I am studying for a B.A. in Information and Computer Science at the University of Hawaii. I expect to graduate in Fall, 2017.",
+    "summary": "I am studying for a B.A. in Information and Computer Science with a minor in Japanese at the University of Hawaii. I expect to graduate in Fall, 2017.",
     "location": {
       "address": "",
       "postalCode": "96706",
-      "city": "Honolulu",
+      "city": "Ewa Beach",
       "countryCode": "USA",
       "region": "Hawaii"
     },
@@ -52,9 +52,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
@@ -63,47 +61,44 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Fall, 2017)",
+      "studyType": "B.A.",
+      "startDate": "2014-08-25",
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "Data Storage and Retrieval",
+        "Network Design and Management",
+        "Security and Trust I: Resource Protections",
+        "Security and Trust II: Information Assurance",
+        "Computer Security",
+        "Computer Security and Ethics",
+        "Computer System Security",
+        "Special Topics: Cyber Security",
+        "Introduction to Programming for the Web",
+        "Human Computer Interaction"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawai‘i at Mānoa Outreach College",
+      "position": "International Programs Interchanger",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2015-12-04",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Conversational English Facilitator",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
