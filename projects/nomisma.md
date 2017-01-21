@@ -13,7 +13,7 @@ labels:
 summary: A money-tracking application made as a team for my course in Secured Software Coding.
 ---
 
-<img src="../images/Nomisma-SS.jpg">
+<img class="ui image" src="../images/Nomisma-SS.jpg">
 
 ## Description
 
