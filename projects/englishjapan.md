@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/englishjapan-thumbnail.png
 title: English Program in Japan
 permalink: projects/englishjapan
 date: 2016
