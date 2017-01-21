@@ -8,7 +8,7 @@ labels:
   - Learning
   - Cybersecurity
 ---
-<img src="../images/SE-image.png">
+<img class="ui image" src="../images/SE-image.png">
 
 I was born in the age of technology.  I was fortunate to be able to grow up while being able to learn how to use computers and other technologies as a child.  I was also fortunate to have such technologies in the form of conveniences like cell phones, and entertainment like video games.  Today, computers run the world, and many things are becoming digital. Such exposure has lead me to an interest in computer science.
 
