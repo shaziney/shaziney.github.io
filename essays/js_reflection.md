@@ -8,11 +8,12 @@ labels:
   - Athletic Software Engineering
 ---
 
-<img class="ui medium left floated image" src="../images/rtfm.png">
 
 ## Initial Thoughts on JavaScript
 
 At the time I am writing this, JavaScript is completely new to me. Based on my limited experience with it so far, it seems syntactically easy to understand and write.  Because of this, I can roughly say that JavaScript may be a good programming language in terms of ease of implementation, from a software engineering perspective.  JavaScript also seems similar yet also easier to write than other programming languages like Java.  I had my first experience with JavaScript by completing the [Basic JavaScript exercises on freeCodeCamp](https://www.freecodecamp.com/map-aside#nested-collapseBasicJavaScript).  Completing these exercises not only taught me a bit of elementary JavaScript, but also helped to refresh my memory on how to write code in general.
+
+<img class="ui medium left floated image" src="../images/FCC-SS.png">
 
 ## Athletic Software Engineering
 
