@@ -13,7 +13,7 @@ labels:
 summary: Managed and led a progression raiding team in World of Warcraft.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img src="../images/WoW-SS.jpg" width="700">
 
 ## Description
 
@@ -26,6 +26,10 @@ One of my previous pastimes was playing the popular massive multiplayer online r
 My role in this endeavor was being an officer within a guild, as well as a raid leader.  As an officer, I sought to recruit skilled players that could fill unique roles that were needed by our guild’s progression raiding team.  Since raiding at a competitive level required lots of dedication and time (we raided for at least 20 hours a week on a scheduled basis), I did my best to find serious players who were committed and could perform well.  
 
 To do so, I [advertised our roster needs on forums](https://us.battle.net/forums/en/wow/topic/4175830420#post-1) and on our website (which is no longer active), and required that interested players apply on our website.  Applicants that seemed promising were invited to our raids in order to exhibit and prove their skills and teamwork by working with us to defeat non-progression bosses or bosses that we already defeated and were no longer struggling to kill.  My criteria for decent players involved how well a player communicated with and worked with others, the damage or healing a player could produce and how much damage a player would take or be able to avoid.  Some of these criteria were carefully assessed by analyzing parses that recorded our performance.  
+
+<img src="../images/WoL1-SS.png" width="700">
+
+<img src="../images/WoL2-SS.png" width="700">
 
 Additionally, in order to provide transparency and ensure that each member was aligned with our goals and motives, [I created an extensive policy](https://docs.google.com/document/d/1kZpz8wCGPn-zi_Hpa8vHn3U-LH9CXmNsshETHnmRiVI/edit?usp=sharing), which highlighted our expectations in terms of attendance and attitude, as well as other things such as how we distribute loot.
 
