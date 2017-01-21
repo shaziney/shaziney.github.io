@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Nόmisma | νόμισμα
+title: Nόmisma νόμισμα
 permalink: projects/nomisma
 date: 2016
 labels:
@@ -13,7 +13,7 @@ labels:
 summary: A money tracking application made as a team for my course in Special Topics: Secured Software Coding.
 ---
 
-<img src="/images/Nomisma-SS.jpg">
+<img src="../images/Nomisma-SS.jpg">
 
 ## Description
 
