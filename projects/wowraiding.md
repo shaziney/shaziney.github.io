@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/wow-thumbnail.png
 title: Competitive Raiding
 permalink: projects/wowraiding
 date: 2014
