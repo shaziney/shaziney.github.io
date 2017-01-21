@@ -10,7 +10,7 @@ labels:
   - Leadership
   - Teaching
   - Japanese Language
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: I taught English for Nihon University in Mishima, Shizuoka, Japan.
 ---
 
 ## Description
