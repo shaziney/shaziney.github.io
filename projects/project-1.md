@@ -27,7 +27,7 @@ My primary role was to plan and deliver experiences that would allow Japanese st
 
 In addition to planning and delivering activities, I assisted my partnered teacher with teaching our English class and lead interchange groups.  Assisting my partnered teacher often involved helping students with their in-class assignments.  During interchange sessions, I facilitated our English conversations in ways that were tailored to a student’s current level of understanding while still being thought provoking.  Once again, I also focused on creating a friendly, positive and dynamic atmosphere to lift the students’ anxieties and encourage them to participate.
 
-<img class="ui image" src="../images/Japan3-SS.jpg">
+<img class="ui image" src="../images/Japans-SS.jpg">
 
 Not-so-officially, I assumed the role of technical support for our Hawaii team of teachers, since I was pegged as the IT-go-to person by my boss because of my major.  We had to use some electronic equipment that appeared to be unique to Japan.  Some technical (and non-technical) issues were also resolved thanks to my skills in Japanese language.  I was also asked to produce videos for student presentations, their graduation ceremony, and promotion in the future.
 
