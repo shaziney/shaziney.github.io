@@ -2,14 +2,15 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+title: Competitive Raiding
+permalink: projects/wowraiding
+date: 2014
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - World of Warcraft
+  - Leadership
+  - Management
+  - Analysis
+  - Strategy
 summary: Managed and led a progression raiding team in World of Warcraft.
 ---
 
