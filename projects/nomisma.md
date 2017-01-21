@@ -10,7 +10,7 @@ labels:
   - SQL
   - Secure Developnment
   - GitHub
-summary: A money-tracking application made as a team for my course in Special Topics: Secured Software Coding.
+summary: A money tracking application made as a team for my course in Special Topics: Secured Software Coding.
 ---
 
 <img src="/images/Nomisma-SS.jpg">
