@@ -9,7 +9,7 @@ labels:
 ---
 
 
-# Initial Thoughts on JavaScript
+## Initial Thoughts on JavaScript
 
 At the time I am writing this, JavaScript is completely new to me. Based on my limited experience with it so far, it seems syntactically easy to understand and write.  Because of this, I can roughly say that JavaScript may be a good programming language in terms of ease of implementation, from a software engineering perspective.  JavaScript also seems similar yet also easier to write than other programming languages like Java.  I had my first experience with JavaScript by completing the [Basic JavaScript exercises on freeCodeCamp](https://www.freecodecamp.com/map-aside#nested-collapseBasicJavaScript).  Completing these exercises not only taught me a bit of elementary JavaScript, but also helped to refresh my memory on how to write code in general.
 
@@ -21,7 +21,7 @@ My Software Engineering course teaches JavaScript through the method of ‘athle
 
 To gain more practice in my first week of experiencing WODs, I went to an Amy WOD.  I plan to continue to attend Amy WODs every week to get more practice.  Here is a link that describes the problem presented by my first [Amy WOD called Suzuki’s Stairs](http://courses.ics.hawaii.edu/ics314f16/morea/javascript-1/amywod-stairs.html).  Here is my solution to this WOD:
 
-```javascript
+```JavaScript
 function suzukiStairs(arr) {
   let daySum = 0;
   let dayAvg = 0;
