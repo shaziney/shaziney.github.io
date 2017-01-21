@@ -13,11 +13,12 @@ labels:
 summary: A money-tracking application made as a team for my course in Secured Software Coding.
 ---
 
-<img class="ui image" src="../images/Nomisma-SS.jpg">
 
 ## Description
 
 Vόμισμα or in English, “nόmisma”, is the ancient Greek word for “money”.  Nόmisma is a money-tracking application, which is intended for use to track expenses while travelling.  This application was developed as a group project for my Special Topics course on Secured Software Coding.  The purpose of this project was not focused on the application itself, but rather on the process of secure coding practices, techniques, planning and testing.  
+
+<img class="ui image" src="../images/Nomisma-SS.jpg">
 
 ## Role & Responsibilities
 
