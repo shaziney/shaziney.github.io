@@ -21,7 +21,7 @@ My Software Engineering course teaches JavaScript through the method of ‘athle
 
 To gain more practice in my first week of experiencing WODs, I went to an Amy WOD.  I plan to continue to attend Amy WODs every week to get more practice.  Here is a link that describes the problem presented by my first [Amy WOD called Suzuki’s Stairs](http://courses.ics.hawaii.edu/ics314f16/morea/javascript-1/amywod-stairs.html).  Here is my solution to this WOD:
 
-```JavaScript
+```javascript
 function suzukiStairs(arr) {
   let daySum = 0;
   let dayAvg = 0;
