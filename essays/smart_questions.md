@@ -4,7 +4,8 @@ type: essay
 title: Smart Questions for Programmers
 date: 2017-01-26
 labels:
-  - Engineering
+  - Software Engineering
+  - Learning
 ---
 
 
