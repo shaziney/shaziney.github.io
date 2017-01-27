@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Smart Questions
+title: Smart Questions for Programmers
 date: 2017-01-26
 labels:
   - Engineering
