@@ -1,7 +1,6 @@
 ---
 layout: essay
 type: essay
-published: false
 title: Smart Questions
 date: 2017-01-26
 labels:
@@ -19,5 +18,14 @@ No human being can stand to develop, improve, and solve all problems solely on t
 
 ## ‘Smart Questions’ vs. ‘Stupid Questions’
 
-People are more likely to respond to questions that are intelligible.   This means that any questions asked in forums or in mailing lists should be written with the proper use of spelling and grammar.  Questions that lack this tend to be ignored.  Intelligible questions also include explanations that reflect that the inquirer has already tried and/or researched various solutions.  People are also generally more inclined to help those who help themselves—or at least try to.  If a question brazenly displays a lack of effort in self-sufficient resolution, it may receive negative or unhelpful responses in place of desirable ones.  Furthermore, smart questions are also written politely.  A person should not ask a question that makes one seem entitled to an answer—because no one is; instead, questions should be asked with a tone of humility, and if a question is resolved or responded to, the inquirer should express his or her gratitude.  An example of a ‘smart question’ can be found here.
+People are more likely to respond to questions that are intelligible.   This means that any questions asked in forums or in mailing lists should be written with the proper use of spelling and grammar.  Questions that lack this tend to be ignored.  Intelligible questions also include explanations that reflect that the inquirer has already tried and/or researched various solutions.  People are also generally more inclined to help those who help themselves—or at least try to.  If a question brazenly displays a lack of effort in self-sufficient resolution, it may receive negative or unhelpful responses in place of desirable ones.  Furthermore, smart questions are also written politely.  A person should not ask a question that makes one seem entitled to an answer—because no one is; instead, questions should be asked with a tone of humility, and if a question is resolved or responded to, the inquirer should express his or her gratitude.  An example of a ‘smart question’ can be found [here](http://stackoverflow.com/questions/11227809/why-is-it-faster-to-process-a-sorted-array-than-an-unsorted-array).
+
+## !Smart
+
+A perfect example of why a software developer should not ask a ‘stupid question’ can be found [here](http://stackoverflow.com/questions/37880319/why-is-the-code-below-not-working).  
+
+This question is extremely underdeveloped, as the inquirer made the fatal mistake of asking a very general or unspecific question: Why is the code below not working?  The inquirer did not show that he or she tried to find a solution before asking. He or she also failed to write this question with the inclusion of proper grammar and spelling.  Furthermore, he or she did not ask this question politely, and did not respond with a ‘thank you’ after receiving what seems like a valid response.  As a result, this question was returned with negative feedback such as down-votes, and a link to a guide on how to properly ask questions on Stack Overflow.  Responders also commented, asking for specific details on what the exact problem was.  Ultimately, one can see that unintelligible and lazy questions such as these are not returned with helpful answers; thus, it is in a software engineer’s best interest to ask ‘smart questions’.
+
+For more information on how to ask smart questions, I highly recommend reading this essay, written by Eric Raymond and Rick Moen.
+
 
