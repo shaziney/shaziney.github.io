@@ -26,9 +26,11 @@ A perfect example of why a software developer should not ask a ‘stupid questio
 
 <img src="../images/bq2.png" width="700">
 
-This question is extremely underdeveloped, as the inquirer made the fatal mistake of asking a very general or unspecific question: Why is the code below not working?  The inquirer did not show that he or she tried to find a solution before asking. He or she also failed to write this question with the inclusion of proper grammar and spelling.  Furthermore, he or she did not ask this question politely, and did not respond with a ‘thank you’ after receiving what seems like a valid response.  As a result, this question was returned with negative feedback such as down-votes, and a link to a guide on how to properly ask questions on Stack Overflow.  Responders also commented, asking for specific details on what the exact problem was.  Ultimately, one can see that unintelligible and lazy questions such as these are not returned with helpful answers; thus, it is in a software engineer’s best interest to ask ‘smart questions’.
+This question is extremely underdeveloped, as the inquirer made the fatal mistake of asking a very general or unspecific question: Why is the code below not working?  The inquirer did not show that he or she tried to find a solution before asking. He or she also failed to write this question with the inclusion of proper grammar and spelling.  Furthermore, he or she did not ask this question politely, and did not respond with a ‘thank you’ after receiving what seems like a valid response.  As a result, this question was returned with negative feedback such as down-votes, and a link to a guide on how to properly ask questions on Stack Overflow.  Responders also commented, asking for specific details on what the exact problem was.  
 
 <img src="../images/bq1.png" width="700">
+
+Ultimately, one can see that unintelligible and lazy questions such as these are not returned with helpful answers; thus, it is in a software engineer’s best interest to ask ‘smart questions’.
 
 For more information on how to ask smart questions, I highly recommend reading [this essay, written by Eric Raymond and Rick Moen](http://www.catb.org/esr/faqs/smart-questions.html).
 
