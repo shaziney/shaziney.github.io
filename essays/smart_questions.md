@@ -14,6 +14,7 @@ How the responses reflect the smartness (or lack thereof), and the insights you 
 
 
 At some point and time, a programmer may experience 
+
 No programmer starts off as being an omniscient and exceptionally skilled hacker.  
 
 ## Learning From Others
