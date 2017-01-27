@@ -8,14 +8,6 @@ labels:
   - Engineering
 ---
 
-Why smart questions are important for smart software engineers?
-How the chosen questions fulfill (or not) the precepts for smart questions.
-How the responses reflect the smartness (or lack thereof), and the insights you gained as a result of this experience.
-
-
-At some point and time, a programmer may experience 
-
-No programmer starts off as being an omniscient and exceptionally skilled hacker.  
 
 ## Learning From Others
 
@@ -25,8 +17,7 @@ No human being can stand to develop, improve, and solve all problems solely on t
 
 “You reap what you sow” could not be a more fitting expression to describe why it is important for a software engineer or programmer to ask a ‘smart question’.  Simply put, a well-developed question is more likely to receive a well-developed or satisfying answer.  This holds true in technical forums like Stack Overflow, which is a great place to ask questions and find answers related to programming.  Forums like Stack Overflow are filled with an abundance of questions that remain unanswered.  It is safe to assume that those who are best-able to answer any given question are busy.  Thus, for one to distinguish his or her own question among others, the question must be written in a way that deserves to be considered, given time to, or viewed upon at all. 
 
-## ‘Smart Questions’
+## ‘Smart Questions’ vs. ‘Stupid Questions’
 
-People are generally more inclined to help those who help themselves—or at least try to.  If a question brazenly displays a lack of effort in self-sufficient resolution, it may receive negative or unhelpful responses in place of desirable ones.  People are also more likely to respond to questions that are intelligible.   
+People are more likely to respond to questions that are intelligible.   This means that any questions asked in forums or in mailing lists should be written with the proper use of spelling and grammar.  Questions that lack this tend to be ignored.  Intelligible questions also include explanations that reflect that the inquirer has already tried and/or researched various solutions.  People are also generally more inclined to help those who help themselves—or at least try to.  If a question brazenly displays a lack of effort in self-sufficient resolution, it may receive negative or unhelpful responses in place of desirable ones.  Furthermore, smart questions are also written politely.  A person should not ask a question that makes one seem entitled to an answer—because no one is; instead, questions should be asked with a tone of humility, and if a question is resolved or responded to, the inquirer should express his or her gratitude.  An example of a ‘smart question’ can be found here.
 
-## ‘Stupid Questions’
