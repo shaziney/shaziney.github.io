@@ -10,6 +10,8 @@ labels:
 ---
 
 
+<img src="../images/config_management.png" width="700">
+
 ## A Central Software Engineering Skill
 
 Configuration management is a necessary means and skill that allows entire teams of software engineers to create and maintain software systems throughout its lifetime. Configuration management can regulage who has access to certain parts of a project.  Configuration management also keeps track of all the changes and versions of a project, which is great for retracing steps in the event that a bug or error is introduced in a newer implementation of a project. Additionally, configuration management makes it possible to regulate the released versions of a software or project. Without configuration management, it would be difficult for a many developers or subsidiary teams of developers to work on a project without possibly encountering issues with file versions or unintentional overwrites.
