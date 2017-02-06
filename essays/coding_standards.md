@@ -13,7 +13,7 @@ labels:
 ---
 
 
-<img src="../images/calmcodingstandards.png" width="700">
+<img class="ui medium right floated rounded image" src="../images/calmcodingstandards.png">
 
 ## Rules for a Language
 
