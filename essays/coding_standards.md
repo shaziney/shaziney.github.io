@@ -35,7 +35,7 @@ An example of a linting utility is ESLint, which is intended for JavaScript.  I 
 
 When all is good in a given piece of code, a green checkmark is displayed; otherwise, red marks indicating an error or unsatisfactory element in the code will appear.  During one of my experiences with using ESLint for JavaScript, I encountered a red flag and an indication of following error:
 
-<img class="ui center floated image" src="../images/noplusplus.png" width="500">
+<img class="ui centered large image" src="../images/noplusplus.png">
 
 This piece of code worked, but did not adhere to the coding standards that I applied to it.  In this case, ESLint flagged the use of '++'.  With further investigation, I found that ESLint has a [rule](http://http://eslint.org/docs/rules/no-plusplus), which disallows the use of unary operators such as '++' and '--'.  When I learned of this, I made the following adjustments in order to satisfy the standard:
 
