@@ -37,6 +37,7 @@ When all is good in a given piece of code, a green checkmark is displayed; other
 
 <img class="ui centered large image" src="../images/noplusplus.png">
 
+
 This piece of code worked, but did not adhere to the coding standards that I applied to it.  In this case, ESLint flagged the use of '++'.  With further investigation, I found that ESLint has a [rule](http://http://eslint.org/docs/rules/no-plusplus), which disallows the use of unary operators such as '++' and '--'.  When I learned of this, I made the following adjustments in order to satisfy the standard:
 
 ```javascript
