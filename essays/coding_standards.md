@@ -38,7 +38,7 @@ When all is good in a given piece of code, a green check mark is displayed; othe
 <img class="ui centered large image" src="../images/noplusplus.png">
 
 
-This piece of code worked, but did not adhere to the coding standards that I applied to it.  In this case, ESLint flagged the use of '++'.  With further investigation, I found that ESLint has a [rule](http://eslint.org/docs/rules/no-plusplus), which disallows the use of unary operators such as '++' and '--' because inclusion of such operators makes for error-prone code.  When I learned of this, I made the following adjustments, changing (i++) to (i += 1) in order to satisfy the standard:
+This piece of code worked, but did not adhere to the coding standards that I applied to it.  In this case, ESLint flagged the use of '++'.  With further investigation, I found that ESLint has a [rule](http://eslint.org/docs/rules/no-plusplus), which disallows the use of unary operators such as '++' and '- -' because inclusion of such operators makes for error-prone code.  When I learned of this, I made the following adjustments, changing (i++) to (i += 1) in order to satisfy the standard:
 
 ```javascript
 for (let i = 0; i < list1.length; i++) //before
