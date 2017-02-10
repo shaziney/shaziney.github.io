@@ -21,7 +21,7 @@ If there were no rules to writing English, what would happen?  Perhaps some woul
 
 ## Coding Standards
 
-Coding standards for a programming language have guidelines for the general style by which one should write code, practices one should follow, and methods one should use when writing code.  Such guidelines may include rules with regards to conventions such as commenting, naming conventions, whitespace, indentation, et cetera. 
+Coding standards for a programming language have guidelines for the general style by which one should write code, practices one should follow, and methods one should use when writing it.  Such guidelines may include rules with regards to conventions such as commenting, naming conventions, whitespace, indentation, et cetera. 
 
 Similar to how grammar and spelling rules are needed for writing in English, coding standards are useful for writing in programming languages as well.  Adherence to coding standards when programming creates consistency that makes for readability. This is particularly true when writing source code as part of a team or for a client.  Different programmers may have an inclination to write code according to the conventions and standards of a programming language that they are accustomed to, and various programming languages have different coding standards.  If such programmers needed to work together using a language that they be more or less familiar with, the use of coding standards is necessary.  By writing in accordance to a standard, others are more likely able to understand what one has written, which is useful in the event that peer reviews for debugging is needed.  In addition to being useful for readability, following coding standards may simply yield code that is more efficient and reliable. 
 
@@ -31,18 +31,20 @@ Coding standards can be established in plain English, but it can be difficult fo
 
 ## My Experience with ESLint for JavaScript
 
-An example of a linting utility is ESLint, which is intended for JavaScript.  I have personally used ESLint as a plugin linting tool in the IntelliJ IDEA integrated development environment and found it to be useful in a way where it not only corrects my coding mistakes, but also helps me with learning how to write code in JavaScript.
+An example of a linting utility is ESLint, which is intended for JavaScript.  I have personally used ESLint as a plugin linting tool in the IntelliJ IDEA integrated development environment and found it to be useful in a way where it not only corrects my coding mistakes, but also helps me with learning how to write better code in JavaScript.
 
-When all is good in a given piece of code, a green checkmark is displayed; otherwise, red marks indicating an error or unsatisfactory element in the code will appear.  During one of my experiences with using ESLint for JavaScript, I encountered a red flag and an indication of following error:
+When all is good in a given piece of code, a green check mark is displayed; otherwise, red marks indicating an error or unsatisfactory element in the code will appear.  During one of my experiences with using ESLint for JavaScript, I encountered a red flag and an indication of following error:
 
 <img class="ui centered large image" src="../images/noplusplus.png">
 
 
-This piece of code worked, but did not adhere to the coding standards that I applied to it.  In this case, ESLint flagged the use of '++'.  With further investigation, I found that ESLint has a [rule](http://http://eslint.org/docs/rules/no-plusplus), which disallows the use of unary operators such as '++' and '--'.  When I learned of this, I made the following adjustments in order to satisfy the standard:
+This piece of code worked, but did not adhere to the coding standards that I applied to it.  In this case, ESLint flagged the use of '++'.  With further investigation, I found that ESLint has a [rule](http://eslint.org/docs/rules/no-plusplus), which disallows the use of unary operators such as '++' and '--' because inclusion of such operators makes for error-prone code.  When I learned of this, I made the following adjustments, changing (i++) to (i += 1) in order to satisfy the standard:
 
 ```javascript
 for (let i = 0; i < list1.length; i++) //before
 for (let i = 0; i < list1.length; i += 1) //after
 ```
 
-Upon making these changes, a green checkmark appeared and granted me relief. Overall, this experience helped me realize that my understanding of how code should be written could be outdated or inadequate altogether.  At any rate, I found ESLint to be useful.  As such, I will probably continue to use linting tools in order to properly follow a set of coding standards for any giving programming language and produce code that executes well and offers great readability.
+Upon making these changes, a green check mark appeared and granted me relief because it meant that the code I produced had met the standards checked by ESLint. 
+
+Overall, this experience helped me realize that my understanding of how code should be written could be outdated or inadequate altogether.  As a result of this experience, I found ESLint to be useful in checking for the use of correct and optimal code in JavaScript.  I will probably continue to use linting tools in order to properly follow a set of coding standards for any given programming language and produce code that executes well and offers great readability.
