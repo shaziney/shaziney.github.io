@@ -30,14 +30,14 @@ The most popular front-end development framework to date is [*Bootstrap*](http:/
 is [*Semantic UI*](http://semantic-ui.com/).  Those beginning to use HTML and CSS may find Semantic UI appealing because is uses natural language, which makes it easy to use.
 
 ```html
-<img class="ui mini image" src="/images/wireframe/image.png">
-<img class="ui tiny image" src="/images/wireframe/image.png">
-<img class="ui small image" src="/images/wireframe/image.png">
-<img class="ui medium image" src="/images/wireframe/image.png">
-<img class="ui large image" src="/images/wireframe/image.png">
-<img class="ui big image" src="/images/wireframe/image.png">
-<img class="ui huge image" src="/images/wireframe/image.png">
-<img class="ui massive image" src="/images/wireframe/image.png">
+<img class="ui mini image" src="/images/image.png">
+<img class="ui tiny image" src="/images/image.png">
+<img class="ui small image" src="/images/image.png">
+<img class="ui medium image" src="/images/image.png">
+<img class="ui large image" src="/images/image.png">
+<img class="ui big image" src="/images/image.png">
+<img class="ui huge image" src="/images/image.png">
+<img class="ui massive image" src="/images/image.png">
 ```
 
 ## Header
