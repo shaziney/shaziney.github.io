@@ -40,6 +40,7 @@ is [*Semantic UI*](http://semantic-ui.com/).  Those beginning to use HTML and CS
 <img class="ui massive image" src="/images/image.png">
 ```
 
+
 ## Header
 
 An example of a linting utility is ESLint, which is intended for JavaScript.  I have personally used ESLint as a plugin linting tool in the IntelliJ IDEA integrated development environment and found it to be useful in a way where it not only corrects my coding mistakes, but also helps me with learning how to write better code in JavaScript.
