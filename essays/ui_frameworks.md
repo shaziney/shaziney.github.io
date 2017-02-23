@@ -21,13 +21,13 @@ Learning a new programming language can be complicated frustrating. In the case 
 
 *Front-end* as opposed to *back-end* refers to what one can see and actually interact with, so web development falls within this category.  A *framework* is a standardized set of concepts or solutions to certain problems.  In terms of web-design, a framework is a structured package of files, which includes codes that address or handle commonly needed implementations or formats. 
 
-<img class="ui small left floated image" src="../images/sui_imagesize.png">
-
 ## Easy-mode with Semantic UI
 
 The most popular front-end development framework to date is [*Bootstrap*](http://getbootstrap.com/), which was developed by Twitter.  Second to Bootstrap is [*Semantic UI*](http://semantic-ui.com/).  Those beginning to use HTML and CSS may find Semantic UI appealing because is uses a natural language, which makes it easy to use.  
 
 For example, instead of trying to figure out how many pixels wide an image should be set to, class names, which include *big* or *small*, can be used to set an image to a general size.  In Semantic UI, these classes for sizes are predefined as shown in the table.
+
+<img class="ui small left floated image" src="../images/sui_imagesize.png">
 
 ```html
 <img src="image.gif" style="width:128px;height:128px;">
