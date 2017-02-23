@@ -27,7 +27,7 @@ Learning a new programming language can be complicated frustrating. In the case 
 The most popular front-end development framework to date is [*Bootstrap*](http://getbootstrap.com/), which was developed by Twitter.  Second to Bootstrap
 is [*Semantic UI*](http://semantic-ui.com/).  Those beginning to use HTML and CSS may find Semantic UI appealing because is uses natural language, which makes it easy to use.
 
-<img class="ui medium left floated image" src="../images/sui_imagesize.png">
+<img class="ui small left floated image" src="../images/sui_imagesize.png">
 
 ```html
 <img class="ui mini image" src="/images/wireframe/image.png">
