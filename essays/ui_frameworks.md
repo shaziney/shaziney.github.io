@@ -58,4 +58,6 @@ Even though front-end development frameworks like Semantic UI may not offer a so
 
 Pictured below is my own mock-up of the Brandy Melville USA website using Semantic UI, followed by a screenshot of the actual web-page.
 
-<img class="ui medium left image" src="../images/brandy_fake.png"><img class="ui medium right image" src="../images/brandy_real.png">
+<img class="ui image" src="../images/brandy_fake.png">
+
+<img class="ui image" src="../images/brandy_real.png">
