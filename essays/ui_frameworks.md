@@ -11,6 +11,8 @@ labels:
   - Semantic UI
 ---
 
+
+
 <img class="ui bigger centered image" src="../images/css_pic.jpg">
 
 ## Getting Started with HTML and CSS
