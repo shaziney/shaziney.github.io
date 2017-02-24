@@ -56,4 +56,6 @@ While Semantic UI may be a great framework to use to make web design easy, it al
 
 Even though front-end development frameworks like Semantic UI may not offer a solution for absolutely everything, they are a great medium for one to design web-pages with relative-ease or within a more than less reasonable amount of time.  Even if Semantic UI may not be able to produce a particular custom theme, it can still handle most of what one is likely to need in order to produce a fairly well-designed web-page.  The artist in me loves being able to bring my ideas to life, color by color and pixel by pixel; however, being too focused on such details are not always necessary or efficient enough to get the job done.  With that said, I will probably make good use of the super simple semantics and packaged implementations that frameworks like Semantic UI has to offer.
 
-<img class="ui left centered image" src="../images/brandy_real.png"><img class="ui centered image" src="../images/brandy_fake.png">
+Pictured below is my own mock-up of the Brandy Melville USA website using Semantic UI, followed by a screenshot of the actual web-page.
+
+<img class="ui medium left image" src="../images/brandy_fake.png"><img class="ui medium right image" src="../images/brandy_real.png">
