@@ -60,7 +60,7 @@ Pictured below is my own mock-up of the [Brandy Melville USA](brandymelvilleusa.
 <img class="ui image" src="../images/brandy_real.png">
 
 
-## Drawbacks of Semantic UI
+## The Drawback of Semantic UI
 
 While Semantic UI may be a great framework to use to make web design easy, it also has its own limitations. For instance, size classes in Semantic UI make it a little less complicated for one to set image sizes in a uniform manner, but what if you want to use a size that is not quite *big* or *large* and is instead something in between?  In such cases, one would be left to set the image size more manually with raw HTML/CSS.  In truth (and from my own experience); however, I found that size variation classes can be marginally adjusted by adding *-er* to a size variation class.  For example, *large* can be *larger*, essentially making large images slightly larger than they would be if set to *large*.  Unfortunately, tweaks or pre-made applications like this are not exactly made available for all elements or variations across the board in Semantic UI.  Thus, Semantic UI or other similar frameworks may not work as desired if one aims to create more customized themes and designs.  
 
