@@ -25,9 +25,9 @@ Learning a new programming language can be complicated frustrating. In the case 
 
 The most popular front-end development framework to date is [*Bootstrap*](http://getbootstrap.com/), which was developed by Twitter.  Second to Bootstrap is [*Semantic UI*](http://semantic-ui.com/).  Those beginning to use HTML and CSS may find Semantic UI appealing because is uses a natural language, which makes it easy to use.  
 
-For example, instead of trying to figure out how many pixels wide an image should be set to, class names, which include *big* or *small*, can be used to set an image to a general size.  In Semantic UI, these classes for sizes are predefined as shown in the table.
-
 <img class="ui small left floated image" src="../images/sui_imagesize.png">
+
+For example, instead of trying to figure out how many pixels wide an image should be set to, class names, which include *big* or *small*, can be used to set an image to a general size.  In Semantic UI, these classes for sizes are predefined as shown in the table.
 
 ```html
 <img src="image.gif" style="width:128px;height:128px;">
