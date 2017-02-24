@@ -27,13 +27,15 @@ The most popular front-end development framework to date is [*Bootstrap*](http:/
 
 <img class="ui small left floated image" src="../images/sui_imagesize.png">
 
-For example, instead of trying to figure out how many pixels wide an image should be set to, class names, which include *big* or *small*, can be used to set an image to a general size.  In Semantic UI, these classes for sizes are predefined as shown in the table.
+For example, instead of trying to figure out how many pixels wide an image should be set to, Semantic UI's class names such *big* or *small*, can be used to set an image to a general size.  In Semantic UI, these classes for sizes are predefined as shown in the table.
 
 ```html
+HTML
 <img src="image.gif" style="width:128px;height:128px;">
 ```
 
 ```html
+HTML with Semantic UI
 <img class="ui mini image" src="/images/image.png">
 <img class="ui tiny image" src="/images/image.png">
 <img class="ui small image" src="/images/image.png">
