@@ -3,6 +3,7 @@ layout: essay
 type: essay
 title: Piecing it Together with Meteor
 date: 2017-03-09
+published: false
 labels:
   - Software Engineering
   - Meteor
