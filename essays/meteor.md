@@ -21,7 +21,7 @@ For some, understanding and learning about web development could be as complex a
 
 Emerging as one of the most popular web stacks today is the *MEAN* stack, which allows one to use JavaScript for *both* the front- and back-end development.  For beginners of web development who may not have a deep understanding of many programming languages like myself, this means that creating functional and visually appealing web products and services doesn't have to feel like solving rocket science. As a faster, simpler and more seamless alternative to the MEAN stack, there's [*Meteor*](http://meteor.com/), which is said to be relatively easy to learn and great for rapid application development.  
 
-## Flying Through Space on a Meteor
+## Flying at the Speed of Light
 
 Not surprisingly, my first experience with full-stack web development was made possible through Meteor.  Based on my initial experiences with it, I can vouch for it's relative simplicity because I was able to learn about enough of it to be able to launch a working product within a matter of a couple weeks.  This is particularly amazing for me personally because I know that at the time of writing this, I have much to learn in the realm of programming and am by no means a programming-genius.  
 
