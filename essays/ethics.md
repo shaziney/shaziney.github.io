@@ -30,4 +30,11 @@ If I were in the shoes of this developer, I would not stop at questioning my sup
 
 *"As developers, we are often one of the last lines of defense against potentially dangerous and unethical practices."*
 
+## Responsibility & Impact
+
 It is important that we, as software developers, think about the well-being of others and society as a whole as we write code. Innocent people can be wronged by the money-hungry drive that will never cease to exist in businesses and may or may not always be honest and ethical.  Software developers can provide positive contributions and protect society by avoiding being a part of potentially harmful productions.  
+
+
+You can read more about ethics and ethics in software development from ACM:
+[ACM Code of Ethics and Professional Conduct](http://www.acm.org/about-acm/acm-code-of-ethics-and-professional-conduct)
+[Software Engineering Code of Ethics and Professional Practice](http://www.acm.org/about/se-code)
