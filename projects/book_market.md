@@ -29,19 +29,19 @@ Together with the help of two other developer partners, I created a book market 
 
 My most notable contribution to this project might be the overall aesthetic design or look of the application. My other contributions to this application included the work behind the Landing, Login, Home and Available Books pages, in addition to the Header and Footer. Along with the image of the home page pictured above, these are images of the pages created by me:
 
-####Landing
+#### Landing
 <img class="ui image" src="../images/landing.png">
 Upon entering the base web address, users are directed to this landing page.
 
-####Login
+#### Login
 <img class="ui image" src="../images/login.png">
 The login page utilizes the University of Hawaii's CAS system, which means only its students are able to use it.
 
-####Home
+#### Home
 <img class="ui image" src="../images/home.png">
 After logging in, authenticated users are redirected to the home page, which features a carousel of popular books.
 
-####Available Books
+#### Available Books
 <img class="ui image" src="../images/available.png">
 This page features all open listings of books up for sale.
 
