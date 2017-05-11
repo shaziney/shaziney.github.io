@@ -52,7 +52,8 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "HTML/CSS"
       ]
     },
     {
@@ -75,7 +76,9 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "Program Structure",
         "Data Storage and Retrieval",
+        "Software Engineering",
         "Network Design and Management",
         "Security and Trust I: Resource Protections",
         "Security and Trust II: Information Assurance",
@@ -84,7 +87,7 @@
         "Computer System Security",
         "Special Topics: Cybersecurity",
         "Introduction to Programming for the Web",
-        "Human Computer Interaction"
+        "Artificial Intelligence"
       ]
     }
   ],
