@@ -31,19 +31,23 @@ My most notable contribution to this project might be the overall aesthetic desi
 
 #### Landing
 <img class="ui image" src="../images/landing.png">
-Upon entering the base web address, users are directed to this landing page.
+
+*Upon entering the base web address, users are directed to this landing page.*
 
 #### Login
 <img class="ui image" src="../images/login.png">
-The login page utilizes the University of Hawaii's CAS system, which means only its students are able to use it.
+
+*The login page utilizes the University of Hawaii's CAS system, which means only its students are able to use it.*
 
 #### Home
 <img class="ui image" src="../images/home.png">
-After logging in, authenticated users are redirected to the home page, which features a carousel of popular books.
+
+*After logging in, authenticated users are redirected to the home page, which features a carousel of popular books.*
 
 #### Available Books
 <img class="ui image" src="../images/available.png">
-This page features all open listings of books up for sale.
+
+*This page features all open listings of books up for sale.*
 
 
 ## Visions and Future Goals
