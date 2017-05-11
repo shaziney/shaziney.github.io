@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: A Cog in the Wheel
+published: false
 date: 2017-05-02
 labels:
   - Software Engineering

@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: Flying Through Space on a Meteor
+published: false
 date: 2017-03-23
 labels:
   - Meteor

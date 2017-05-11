@@ -2,6 +2,7 @@
 layout: essay
 type: essay
 title: Smart Questions for Programmers
+published: false
 date: 2017-01-26
 labels:
   - Software Engineering
